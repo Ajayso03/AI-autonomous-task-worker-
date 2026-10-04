@@ -1,0 +1,9 @@
+======================================================================
+INVOICE: INV-2024-301
+Vendor: Initech LLC
+Date: 2024-10-12
+Due Date: [SCAN_BLUR_CORRUPTED_VALUE - REQUERY_PORTAL]
+Description: Enterprise TPS Report Automation Module License
+Total Due: $2,150.00
+Notice: Due date field damaged during scan. Consult vendor portal record.
+======================================================================

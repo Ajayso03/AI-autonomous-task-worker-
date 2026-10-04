@@ -1,0 +1,41 @@
+{
+  "portal_version": "2.4.0",
+  "last_sync": "2026-10-04T15:37:46.108821",
+  "records": [
+    {
+      "invoice_number": "INV-2024-001",
+      "vendor": "Acme Corp",
+      "amount": 1250.0,
+      "due_date": "2024-02-15",
+      "status": "ARCHIVED"
+    },
+    {
+      "invoice_number": "INV-2024-089",
+      "vendor": "Acme Corp",
+      "amount": 3450.0,
+      "due_date": "2024-10-25",
+      "status": "APPROVED"
+    },
+    {
+      "invoice_number": "INV-2024-104",
+      "vendor": "Cyberdyne Systems",
+      "amount": 4800.0,
+      "due_date": "2024-11-01",
+      "status": "VERIFIED"
+    },
+    {
+      "invoice_number": "INV-2024-205",
+      "vendor": "Stark Industries",
+      "amount": 14200.0,
+      "due_date": "2024-11-15",
+      "status": "PENDING_CFO_SIGN_OFF"
+    },
+    {
+      "invoice_number": "INV-2024-301",
+      "vendor": "Initech LLC",
+      "amount": 2150.0,
+      "due_date": "2024-12-01",
+      "status": "ACTIVE_ACCURATE"
+    }
+  ]
+}

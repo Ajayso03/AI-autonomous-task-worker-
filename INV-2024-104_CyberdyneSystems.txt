@@ -1,0 +1,11 @@
+======================================================================
+INVOICE: INV-2024-104
+Vendor: Cyberdyne Systems
+Tax ID: US-8841290
+Issue Date: 2024-10-01
+Due Date: 2024-11-01
+Service: Autonomous Neural Hardware Infrastructure Cluster Support
+Amount Due: $4,800.00
+Payment Terms: Net 15
+Please remit via wire transfer within payment terms.
+======================================================================

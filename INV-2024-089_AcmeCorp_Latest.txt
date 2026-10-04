@@ -1,0 +1,11 @@
+======================================================================
+OFFICIAL INVOICE: INV-2024-089
+Vendor: Acme Corp
+Tax ID: US-9912381
+Invoice Date: 2024-09-15
+Due Date: 2024-10-25
+Payment Terms: Net 30
+Item: Enterprise API & Platform Subscription - Q3
+Total Amount Due: $3,450.00
+Remittance: ACH to routing 021000021 / acct 8829104
+======================================================================

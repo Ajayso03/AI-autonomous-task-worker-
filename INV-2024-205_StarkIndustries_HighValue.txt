@@ -1,0 +1,10 @@
+======================================================================
+INVOICE: INV-2024-205
+Vendor: Stark Industries
+Tax ID: US-7719283
+Issue Date: 2024-10-05
+Due Date: 2024-11-15
+Line Items: Arc Reactor Clean Energy Substation Maintenance
+Total Amount Due: $14,200.00
+POLICY WARNING: Transactions over $5,000 require CFO / Controller approval.
+======================================================================

@@ -1,0 +1,23 @@
+[
+  "tests/test_agent_loop.py::test_autonomy_infers_steps_without_explicit_commands",
+  "tests/test_agent_loop.py::test_happy_path_acme_invoice_processing",
+  "tests/test_generalization.py::test_task_variation_cyberdyne_general_ledger",
+  "tests/test_generalization.py::test_task_variation_multiple_goals_with_same_worker_instance",
+  "tests/test_loop_prevention.py::test_max_step_guardrail_prevents_infinite_loop",
+  "tests/test_recovery.py::test_recovery_from_corrupted_due_date",
+  "tests/test_recovery.py::test_recovery_from_duplicate_entry",
+  "tests/test_safety_approval.py::test_approval_resumption_workflow",
+  "tests/test_safety_approval.py::test_high_value_transaction_triggers_approval",
+  "tests/test_safety_approval.py::test_rejection_halts_execution_without_database_write",
+  "tests/test_tools.py::test_create_payable_record_duplicate_prevention",
+  "tests/test_tools.py::test_extract_invoice_data_corrupt_scan",
+  "tests/test_tools.py::test_extract_invoice_data_pdf",
+  "tests/test_tools.py::test_inspect_database_security_guard",
+  "tests/test_tools.py::test_search_documents",
+  "tests/test_tools.py::test_tool_execution_invalid_arguments",
+  "tests/test_tools.py::test_tool_execution_unrecognized_tool",
+  "tests/test_tools.py::test_tool_registry_registration",
+  "tests/test_verification.py::test_independent_verification_detects_amount_tampering_or_discrepancy",
+  "tests/test_verification.py::test_independent_verification_fails_on_missing_record",
+  "tests/test_verification.py::test_independent_verification_success"
+]

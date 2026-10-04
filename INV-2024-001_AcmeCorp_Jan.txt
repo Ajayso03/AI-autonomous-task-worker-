@@ -1,0 +1,11 @@
+======================================================================
+INVOICE: INV-2024-001
+Vendor: Acme Corp
+Date: 2024-01-10
+Due Date: 2024-02-15
+Description: Initial consulting onboarding services
+Subtotal: $1,250.00
+Tax: $0.00
+Total Balance: $1,250.00
+Status: Historical Archive (Paid)
+======================================================================
